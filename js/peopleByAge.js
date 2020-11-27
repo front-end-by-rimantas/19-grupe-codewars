@@ -91,3 +91,34 @@ function sum(...num) {
 }
 
 const total = sum(2, 2, 8, 4, 7);
+
+
+console.clear();
+
+
+function blabla(num, str) {
+    if (false) {
+        return 'err'
+    }
+
+    return 415;
+}
+
+console.log(blabla(5, 'earsgfh'))
+
+
+
+const DOM = document.querySelector('.ewretsrh');
+
+console.log(DOM);
+
+
+if (DOM) {
+    console.log('taip');
+} else {
+    console.log('ne');
+}
+
+
+console.clear();
+
